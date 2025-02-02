@@ -1,0 +1,1 @@
+This repository contains an example of a common COBOL programming error: division by zero. The `bug.cob` file demonstrates the error, while `bugSolution.cob` shows the corrected code.  This example highlights the importance of input validation and error handling in COBOL applications.
